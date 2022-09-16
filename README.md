@@ -33,7 +33,7 @@
 6. Splitting the data into test and train
 
 ## PROGRAM:
-```python
+```
 import pandas as pd
 import numpy as np
 
